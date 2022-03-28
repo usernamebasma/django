@@ -1,0 +1,16 @@
+http://127.0.0.1:8000/accounts/login
+login      basma
+password   basma123
+
+créer un projet django
+relier base des donnees avec mysql (xampp) dans setting
+créer accounts (superuser ,profile(login,register,logout))
+
+Créer un model Product,un model Category
+ faire migrations ,migrate
+créer les Apis
+créer corsheaders
+vérifier static pour les images et les fichiers 
+Mettre le crud (select =>affiche,update,add=>ajout, delete=>Supprision et search)
+test et verfication selon  view ,url ,code ...
+
